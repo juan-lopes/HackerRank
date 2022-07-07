@@ -8,3 +8,6 @@ https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
 
 SQL (Basic) Skills Certification Test
 https://www.hackerrank.com/skills-verification/sql_basic
+
+SQL (Intermediate) Skills Certification Test
+https://www.hackerrank.com/skills-verification/sql_intermediate
