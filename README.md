@@ -11,3 +11,6 @@ https://www.hackerrank.com/skills-verification/sql_basic
 
 SQL (Intermediate) Skills Certification Test
 https://www.hackerrank.com/skills-verification/sql_intermediate
+
+Functional Programming
+https://www.hackerrank.com/domains/fp
